@@ -38,6 +38,9 @@ The client needed a travel ecosystem that could solve multiple challenges:
 - MySQL
 - REST APIs
 
+### Payment Gateway
+- Razorpay (split payment)
+
 ### Cloud Infrastructure
 - AWS EC2
 - AWS S3
