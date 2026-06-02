@@ -50,8 +50,6 @@ The client needed a travel ecosystem that could solve multiple challenges:
 
 ### Authentication
 - Email Authentication
-- Google Sign-In
-- Apple Sign-In
 
 ### Analytics
 - Firebase Analytics
