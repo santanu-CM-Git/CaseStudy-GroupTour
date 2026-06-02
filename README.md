@@ -49,7 +49,7 @@ The client needed a travel ecosystem that could solve multiple challenges:
 - Firebase Cloud Messaging (FCM)
 
 ### Authentication
-- Email Authentication
+- OTP Authentication
 
 ### Analytics
 - Firebase Analytics
